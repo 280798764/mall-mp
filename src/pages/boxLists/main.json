@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "魔盒列表",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 200
+}

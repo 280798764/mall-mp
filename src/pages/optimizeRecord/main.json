@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "优化列表",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 200
+}

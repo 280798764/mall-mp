@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/boxLists/main",
+    "pages/login/main",
+    "pages/bindWx/main",
+    "pages/forgetPwd/main",
+    "pages/optimizeRecordDetail/main",
+    "pages/optimizeRecord/main",
+    "pages/intelligentSynergy/main",
+    "pages/nextBoxDetail/main",
+    "pages/boxDetail/main"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#333333",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#EDEDED"
+  }
+}
